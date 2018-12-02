@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "672742536801",
+    "firebase_url": "https://fir-starter-730a1.firebaseio.com",
+    "project_id": "fir-starter-730a1",
+    "storage_bucket": "fir-starter-730a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672742536801:android:ed107dee36821ad2",
+        "android_client_info": {
+          "package_name": "com.none.firebasestarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672742536801-4rulmppptvbrtv97uh64rufevc5jqg61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJjf_RXe9Rq6olKpluMOitF9ezx5gIG2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
